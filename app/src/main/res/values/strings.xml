@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SensorReading</string>
+    <string name="title_activity_main">Sensor Reading</string>
 </resources>
